@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👋 Hi, I’m Goodluck prosper!  <br>💻 I’m a software developer passionate about creating web applications.  <br>🌱 Currently learning fullstack development with React ,Next.js and Node.js  <br>⚡ Fun fact: I love photography and hiking when I’m not coding.  <br>📫 Reach me on [Instagram] https://www.instagram.com/goodluck.dev?utm_source=qr&igsh=MW9reWg5NjJtNWF2OA==.<br>
+<br><br>👋 Hi, I’m Goodluck prosper!  <br>💻 I’m a software developer passionate about creating web applications.  <br>🌱 Currently learning fullstack development with React ,Next.js and Node.js  <br>⚡ Fun fact: I love photography and hiking when I’m not coding. 
 
 
 ## 🌐 Socials:
@@ -18,8 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Goodluck9191&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Goodluck9191&icon=0&color=0)](https://visitcount.itsvg.in)
