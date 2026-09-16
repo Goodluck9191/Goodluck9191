@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👋 Hi, I’m Goodluck prosper!  <br>💻 I’m a software developer passionate about creating web applications.  <br>🌱 Currently learning fullstack development with React ,Next.js and Node.js  <br>⚡ Fun fact: I love photography and hiking when I’m not coding. 
+<br><br>👋 Hi, I’m Goodluck prosper!  <br>💻 Software Engineer & Full-Stack Developer building modern, scalable, and user-friendly web applications.  <br>🌱 I work with React, Next.js, TypeScript, Tailwind CSS, Node.js, and Supabase  <br>🧠 Interested in software architecture, AI, and building technology that solves real-world problems. 
 
 
 ## 🌐 Socials:
